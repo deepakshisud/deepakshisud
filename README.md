@@ -1,4 +1,4 @@
-![Deepakshi-cover](/Cover.png)
+![Deepakshi-cover](https://github.com/deepakshisud/deepakshisud/blob/master/Cover.png)
 
 ### Hi there 👋
 
