@@ -3,18 +3,18 @@
 ### Hi there 👋 I am Deepakshi. I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. My hobbies include reading, swimming and cooking lots of tasty food. 
 
 
-- 🔭 I’m currently working on 
+ 🔭 I’m currently working on 
 
-      * Full Stack Developement
-      * Arduino based Multimeter
-      * No show Paitent Analysis
+       Full Stack Developement
+       Arduino based Multimeter
+       No show Paitent Analysis
       
-- 🌱 I’m currently learning 
+🌱 I’m currently learning 
 
-      * SQL
-      * Power BI
+       SQL
+       Power BI
       
-- 📫 How to reach me:
+📫 How to reach me:
 
-      * email at @deepakshisud@gmail.com
-      * [LinkedIn](https://www.linkedin.com/in/deepakshi-sood-27b386174)
+       email at @deepakshisud@gmail.com
+   
