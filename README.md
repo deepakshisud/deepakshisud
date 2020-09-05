@@ -1,3 +1,5 @@
+![Deepakshi-cover](/Cover.png)
+
 ### Hi there 👋
 
 <!--
