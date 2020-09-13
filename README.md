@@ -10,9 +10,9 @@
 <p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am an incoming JP Morgan Chase and Co. Intern and also a Microsoft Student Learn Ambassador. I am interested in Web Developement, SQL, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging, Vlogging.
 In my spare time, I like to read fictional novels. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
-<p align='center'>
+
  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=deepakshisud)](https://github.com/deepakshisud/github-contribution-stats/)
- </p>
+
 
  🔭 I’m currently working on 
 
