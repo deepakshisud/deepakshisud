@@ -11,7 +11,7 @@
 In my spare time, I like to read fictional novels. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakshisud&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
    
