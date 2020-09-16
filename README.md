@@ -11,20 +11,15 @@
 In my spare time, I like to read fictional novels. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 
+### My Github Stats
 
-<div align='left' markdown="1">
+<div align='center' markdown="1">
 
- ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&show_icons=true&theme=buefy)
+ ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&show_icons=true&theme=solarized-light)
  
  </div>
  
- Here are my Github stats. I am trying to contribute more and learn more through open source and github. My goal is to reach tha S!
- 
- <div align='right' markdown="1">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakshisud&layout=compact)](https://github.com/deepakshisud/github-readme-stats)
- 
- </div>
+
  
 
 
