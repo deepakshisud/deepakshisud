@@ -11,10 +11,8 @@
 In my spare time, I like to read fictional novels. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 
-### My Github Stats
-
 <div align='center' markdown="1">
-
+### My Github Stats
  ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&show_icons=true&theme=solarized-light)
  
  </div>
