@@ -16,9 +16,9 @@ In my spare time, I like to read fictional novels. I enjoy cooking delicious foo
 
  ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&show_icons=true&theme=buefy)
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakshisud&layout=compact)](https://github.com/deepakshisud/github-readme-stats)
- 
  </div>
+ 
+ Here are my Github stats. I am trying to contribute more and learn more through open source and github. My goal is to reach tha S!
  
  <div align='right' markdown="1">
  
