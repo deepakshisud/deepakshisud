@@ -12,7 +12,9 @@ In my spare time, I like to read fictional novels. I enjoy cooking delicious foo
 
 
 <div align='center' markdown="1">
+
 ### My Github Stats
+
  ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&show_icons=true&theme=solarized-light)
  
  </div>
