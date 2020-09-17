@@ -20,7 +20,7 @@ In my spare time, I like to read fictional novels. I enjoy cooking delicious foo
 * **👯 I’m looking to collaborate on** Web Development and Analytics
 * **💬 Ask me about** Web Development, Analytics, SQL
 * **⚡ Fun fact** I have only three incisors :) 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align='center' markdown="1">
 
