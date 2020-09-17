@@ -15,6 +15,11 @@
 <p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am an incoming JP Morgan Chase and Co. Intern and also a Microsoft Student Learn Ambassador. I am interested in Web Developement, SQL, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging, Vlogging.
 In my spare time, I like to read fictional novels. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##### 🌱 I’m currently learning Front-end developement, Linux Krenel
+##### 👯 I’m looking to collaborate on Web Development and Analytics
+##### 💬 Ask me about Web Development, Analytics, SQL
+
 
 <div align='center' markdown="1">
 
