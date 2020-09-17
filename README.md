@@ -9,16 +9,16 @@
 <h2 align="center">Hello there! My name is Deepakshi Sood. 👋🤓</h2>
 <p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am an incoming JP Morgan Chase and Co. Intern and also a Microsoft Student Learn Ambassador. I am interested in Web Developement, SQL, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging, Vlogging.
 In my spare time, I like to read fictional novels. I enjoy cooking delicious food and may open my cafe at some point. </p>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<a href="https://github.com/deepakshisud/github-profile-readme-generator/fork" target="blank">
 <img src="https://img.shields.io/github/forks/deepakshisud/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<a href="https://github.com/deepakshisud/github-profile-readme-generator/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/deepakshisud/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<a href="https://github.com/deepakshisud/github-profile-readme-generator/issues" target="blank">
 <img src="https://img.shields.io/github/issues/deepakshisud/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<a href="https://github.com/deepakshisud/github-profile-readme-generator/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/deepakshisud/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 
