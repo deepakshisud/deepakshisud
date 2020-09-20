@@ -16,7 +16,7 @@
 In my spare time, I like to read fictional novels. I am always up for a good women-empowerment chat. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning** Front-end developement, Linux Krenel
+* **🌱 I’m currently learning** Front-end developement, Linux Kernel
 * **👯 I’m looking to collaborate on** Web Development and Analytics
 * **💬 Ask me about** Web Development, Analytics, SQL
 * **⚡ Fun fact** I have only three incisors :) 
