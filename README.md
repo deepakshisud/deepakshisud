@@ -25,7 +25,7 @@ In my spare time, I like to read fictional novels. I am always up for a good wom
 <div align='center' markdown="1">
 
 ### My Github Stats
- 
+ ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&count_private=true)
  </div>
  
 
