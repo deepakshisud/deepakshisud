@@ -12,7 +12,7 @@
 </div>
 
 <h2 align="center">Hello there! My name is Deepakshi Sood. 👋🤓</h2>
-<p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am currently working as a PRISM Developer at Samsung. I am an incoming JP Morgan Chase and Co. Intern and also a Microsoft Student Learn Ambassador. I am interested in Web Developement, SQL, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging.
+<p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am currently working as a PRISM Developer at Samsung. I am an incoming JP Morgan Chase and Co. Intern and also a Microsoft Student Learn Ambassador - Beta. I am interested in Web Developement, SQL, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging.
 In my spare time, I like to read fictional novels. I am always up for a good women-empowerment chat. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
