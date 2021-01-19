@@ -4,6 +4,7 @@
  <a href="https://www.instagram.com/deepakshiiiiii/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/DeepakshiSud"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/deepakshi-sood-27b386174/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+ <a href="https://deepakshisood.medium.com/"><img height="30" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fmedium-47-433328.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fmedium-47&tbnid=SghP5WlZQj4viM&vet=12ahUKEwi0mJeSi6juAhVTBHIKHU3LCYIQMygBegUIARC2AQ..i&docid=Kdd93ZcjaHOqWM&w=512&h=512&q=medium%20icon%20image&ved=2ahUKEwi0mJeSi6juAhVTBHIKHU3LCYIQMygBegUIARC2AQ"></a>
 </p>
 <div align='center'>
  
