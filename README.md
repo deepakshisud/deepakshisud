@@ -21,6 +21,13 @@ In my spare time, I like to read fictional novels. I am always up for a good wom
 * **👯 I’m looking to collaborate on** Web Development and Analytics
 * **💬 Ask me about** Web Development, Analytics, SQL
 * **⚡ Fun fact** I have only three incisors :) 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📰 Blog Posts
+- [The Grass is Greener on the Web](https://deepakshisood.medium.com/the-grass-is-greener-on-the-web-f7d85612d410)
+- [Big O and All You Need to Know](https://deepakshisood.medium.com/big-o-and-all-you-need-to-know-d71c9db52188)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align='center' markdown="1">
