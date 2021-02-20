@@ -17,8 +17,8 @@
 In my spare time, I like to read fictional novels. I am always up for a good women-empowerment chat. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning** Front-end developement, Competitive Coding
-* **👯 I’m looking to collaborate on** Web Development and Analytics
+* **🌱 I’m currently learning** Competitive Coding, API Development
+* **👯 I’m looking to collaborate on** Web Development, Analytics, Hackathons
 * **💬 Ask me about** Web Development, Analytics, SQL
 * **⚡ Fun fact** I have only three incisors :) 
 
@@ -27,6 +27,7 @@ In my spare time, I like to read fictional novels. I am always up for a good wom
 ### 📰 Blog Posts
 - [The Grass is Greener on the Web](https://deepakshisood.medium.com/the-grass-is-greener-on-the-web-f7d85612d410)
 - [Big O and All You Need to Know](https://deepakshisood.medium.com/big-o-and-all-you-need-to-know-d71c9db52188)
+- [WoT in a nutshell](https://deepakshisood.medium.com/web-of-things-in-a-nutshell-b137b5daad44)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
