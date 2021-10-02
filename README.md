@@ -13,7 +13,7 @@
 </div>
 
 <h2 align="center">Hello there! My name is Deepakshi Sood. 👋🤓</h2>
-<p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am currently working as a PRISM Developer at Samsung. I am an incoming JP Morgan Chase and Co. Intern and also a Microsoft Student Learn Ambassador - Beta. I am interested in Web Developement, API Development, JavaScript Game Dev, SQL, Azure Cloud, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging.
+<p align="center">I am a 4th Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and Data Analytics. I am an Upcoming Analyst at Morgan Stanley. I have worked as a PRISM Developer at Samsung and a SEP Intern at JP Morgan Chase and Co. Intern. I am also a Microsoft Student Learn Ambassador - Beta. I am interested in Web Developement, API Development, JavaScript Game Dev, SQL, Azure Cloud, PowerBI, Analytics, Competitive Programming, Data Structures, Blogging.
 In my spare time, I like to read fictional novels. I am always up for a good women-empowerment chat. I enjoy cooking delicious food and may open my cafe at some point. </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -28,6 +28,8 @@ In my spare time, I like to read fictional novels. I am always up for a good wom
 - [The Grass is Greener on the Web](https://deepakshisood.medium.com/the-grass-is-greener-on-the-web-f7d85612d410)
 - [Big O and All You Need to Know](https://deepakshisood.medium.com/big-o-and-all-you-need-to-know-d71c9db52188)
 - [WoT in a nutshell](https://deepakshisood.medium.com/web-of-things-in-a-nutshell-b137b5daad44)
+- [Comprehensice Cheat Sheet for Inbuilt Hashmaps in C++](https://deepakshisood.medium.com/comprehensive-cheat-sheet-for-inbuilt-hashmaps-in-c-16c2f4ac6ce5)
+- [Authentication using Firebase for Express.js](https://deepakshisood.medium.com/authentication-using-firebase-for-express-js-42dfb277c114)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
