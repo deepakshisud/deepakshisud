@@ -3,8 +3,8 @@
 <p align='center'>
  <a href="https://www.instagram.com/deepakshiiiiii/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-256.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/DeepakshiSud"><img height="30" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/03-twitter-256.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/deepakshi-sood-27b386174/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png"></a>
- <a href="https://deepakshisood.medium.com/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"></a>
+<a href="https://www.linkedin.com/in/deepakshi-sood-27b386174/"><img height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png"></a>&nbsp;&nbsp;
+ <a href="https://deepakshisood.medium.com/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"></a>&nbsp;&nbsp;
  <a href="https://dev.to/deepakshisood"><img height="30" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/dev-256.png"></a>
  </p>
 <div align='center'>
