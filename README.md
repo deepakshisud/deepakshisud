@@ -31,7 +31,7 @@ In my spare time, I like to read fictional novels. I am always up for a good wom
 - [WoT in a nutshell](https://deepakshisood.medium.com/web-of-things-in-a-nutshell-b137b5daad44)
 - [Comprehensice Cheat Sheet for Inbuilt Hashmaps in C++](https://deepakshisood.medium.com/comprehensive-cheat-sheet-for-inbuilt-hashmaps-in-c-16c2f4ac6ce5)
 - [Authentication using Firebase for Express.js](https://deepakshisood.medium.com/authentication-using-firebase-for-express-js-42dfb277c114)
-- [Getting in J.P.Morgan India](https://dev.to/deepakshisood/getting-into-jp-morgan-india-sep-summer-internship-2021-35i8)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
